@@ -51,4 +51,16 @@
       <td><a href="https://github.com/achieve-software/r10otherevents-forms">Repo Details</td>
       <td>Other events-Forms</td>
     </tr>
+             <tr>
+      <td>8</td></td>
+      <td>Router-intro</td></td>
+      <td><a href="https://github.com/achieve-software/r18router-intro-starter">Repo Details</td>
+      <td>React-Router 1</td>
+    </tr>
+             <tr>
+      <td>9</td></td>
+      <td>Router-example</td></td>
+      <td><a href="https://github.com/achieve-software/r19router-example">Repo Details</td>
+      <td>React-Router 2</td>
+    </tr>
       </tbody>
