@@ -81,4 +81,16 @@
       <td><a href="https://github.com/achieve-software/r31reducer-starter">Repo Details</td>
       <td>React-Reducer</td>
     </tr>
+            <tr>
+      <td>13</td></td>
+      <td>React-Material UI</td></td>
+      <td><a href="https://github.com/achieve-software/r33material-intro">Repo Details</td>
+      <td>React-Material UI</td>
+    </tr>
+          <tr>
+      <td>14</td></td>
+      <td>React-Hooks</td></td>
+      <td><a href="https://github.com/achieve-software/r34hooks-starter">Repo Details</td>
+      <td>Memo-useMemo-useCallback-useRef</td>
+    </tr>
       </tbody>
