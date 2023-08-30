@@ -75,4 +75,10 @@
       <td><a href="https://github.com/achieve-software/r29context-example1">Repo Details</td>
       <td>React-Context</td>
     </tr>
+             <tr>
+      <td>12</td></td>
+      <td>React-Reducer Example</td></td>
+      <td><a href="https://github.com/achieve-software/r31reducer-starter">Repo Details</td>
+      <td>React-Reducer</td>
+    </tr>
       </tbody>
